@@ -16,4 +16,4 @@ The there are various functions including the following:
 7. Query: Queries the table based on user input
 8. Scan: Scans the table based on user input
 9. main: Calls other functions and takes in user inputs
-10. 
+
